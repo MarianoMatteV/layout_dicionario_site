@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title1{
+    display: flex;
+    justify-content: start;
+    margin-top: 30px;
+}
+
+.p-3{
+    background-color: #B9B7BD;
+    margin-top: 15px;                                     
+}
+
+.subtitle{
+    display: flex;
+    justify-content: space-evenly;
+}
